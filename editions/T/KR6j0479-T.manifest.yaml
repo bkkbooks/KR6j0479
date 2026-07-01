@@ -1,0 +1,122 @@
+canonical_identifier: bkk:krp/KR6j0479/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0479/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 吽迦陀野儀軌
+  identifiers:
+    krp: KR6j0479
+    cbeta: T21n1251
+    cbeta_old_id: T21n1251
+    authorityid: CA0001334
+    json_key: T1251
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1251.xml
+    old_id: T21n1251
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0479_000-T.yaml, hash: 'sha256:203f073f7b4cc71bee2fe1a6c57a03de972e6eb04133799dac75ce892964f8a4'}
+  - {seq: 1, filename: KR6j0479_001-T.yaml, hash: 'sha256:368b5ed54e44d36d02bbc410ec9e894779b3de207f624f0a7abb4b90e2bf5515'}
+  - {seq: 2, filename: KR6j0479_002-T.yaml, hash: 'sha256:e446a0cfa049dbd8aa6c5f172f390d7100f9623c8e62671553cb32a7b5e5e5ae'}
+  - {seq: 3, filename: KR6j0479_003-T.yaml, hash: 'sha256:7b9b5322a506b84d01dbae8ddb2612f47a99368cabafb64802c20722a14e49f5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0479_000-T.markers.yaml, hash: 'sha256:8e0658665d8760f851c9dc22c7bddef693ad8f85c148201b82d78edb9366b30b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0479_001-T.markers.yaml, hash: 'sha256:106476d8605c60319e3c724edbaed8fb1c960859491f4aefda3322746703399f'}
+  - {seq: 2, role: markers, filename: assets/KR6j0479_002-T.markers.yaml, hash: 'sha256:cf5e7c2f73a440370a4f49ed88b039c434ac0f074143aa9f99a8f4b9e93b41d8'}
+  - {seq: 3, role: markers, filename: assets/KR6j0479_003-T.markers.yaml, hash: 'sha256:2f63e6fe2214cfec3d3e82dce32708669c3e64e407aba40709121e69d88ff24c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0479_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12102
+  label: 吽迦陀野儀軌上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0479_T_001-mulu-1
+    span:
+    - body
+    - 3
+    - 3
+  label: 1 麼迦多聞寶藏吽迦陀野神妙修真言瑜伽念誦儀軌󱃳𮥟漫荼羅品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0479_T_001-mulu-2
+    span:
+    - body
+    - 9082
+    - 9082
+  label: 2 吽迦陀野摩訶主布解梵字品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0479_T_001-mulu-3
+    span:
+    - body
+    - 10673
+    - 10673
+  label: 3 吽迦陀野一面十臂摩訶神王𮥟護摩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0479_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7935
+  label: 吽迦陀野儀軌中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0479_T_002-mulu-1
+    span:
+    - body
+    - 6714
+    - 6714
+  label: 4 吽迦陀野梨殺藥法引構八大曼陀羅大靈驗法入供養品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0479_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 4923
+  label: 吽迦陀野儀軌下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0479_T_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 5 吽迦陀野相應天成就八界供養洗浴品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0479_T_003-mulu-2
+    span:
+    - body
+    - 4045
+    - 4045
+  label: 6 一切毘那夜迦十羅剎女一切鬼神成就品
+  type: mulu
+  level: 1
+hash: sha256:254ea88dc5ceae68be9c780c8c463c18c0d746cbf71e0ac141c7f0faba85b482

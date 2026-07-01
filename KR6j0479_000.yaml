@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0479/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 吽迦陀野儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1251.xml
+    old_id: T21n1251
+hash: sha256:203f073f7b4cc71bee2fe1a6c57a03de972e6eb04133799dac75ce892964f8a4
