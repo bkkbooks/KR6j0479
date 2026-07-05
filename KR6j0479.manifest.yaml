@@ -25,13 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0479_000.yaml, hash: 'sha256:203f073f7b4cc71bee2fe1a6c57a03de972e6eb04133799dac75ce892964f8a4'}
-  - {seq: 1, filename: KR6j0479_001.yaml, hash: 'sha256:703ce9d9dbac35247b3d4eb5403914e6ff2553fd81134a33d6a0c6aa31fcb945'}
-  - {seq: 2, filename: KR6j0479_002.yaml, hash: 'sha256:80ba3608236a06cb7b8f51b53ae0f38ea69578b6185c3f85019beea7723347e0'}
-  - {seq: 3, filename: KR6j0479_003.yaml, hash: 'sha256:66b64ed0584c2171fd0f010f1ba8c663d80376e1f5bc89e36b5ba1f3cbec60a4'}
+  - {seq: 1, filename: KR6j0479_001.yaml, hash: 'sha256:368b5ed54e44d36d02bbc410ec9e894779b3de207f624f0a7abb4b90e2bf5515'}
+  - {seq: 2, filename: KR6j0479_002.yaml, hash: 'sha256:e446a0cfa049dbd8aa6c5f172f390d7100f9623c8e62671553cb32a7b5e5e5ae'}
+  - {seq: 3, filename: KR6j0479_003.yaml, hash: 'sha256:7b9b5322a506b84d01dbae8ddb2612f47a99368cabafb64802c20722a14e49f5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0479_001.markers.yaml, hash: 'sha256:8b6f70fb52deae5ed7e060c34635a20750da80e20cb55c80838963322d0e620c'}
-  - {seq: 2, role: markers, filename: assets/KR6j0479_002.markers.yaml, hash: 'sha256:5ee6833f74764ed16b99472f1e758b5e3b4fea9380d6c2e1adf0d2a2a57f4d03'}
-  - {seq: 3, role: markers, filename: assets/KR6j0479_003.markers.yaml, hash: 'sha256:aa49418330e7ebe0e128fb7bef8ef8c16ba6abe0befa4afc53e211e291f5d130'}
+  - {seq: 0, role: markers, filename: assets/KR6j0479_000.markers.yaml, hash: 'sha256:4d9806851de95482041afbd0825195791dc1dfedf8ae5642d7c077fd9d15854e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0479_001.markers.yaml, hash: 'sha256:aace44a021d60195276f6f8b9a3daadd9fe5305db75d0ee786481f6dc0697870'}
+  - {seq: 2, role: markers, filename: assets/KR6j0479_002.markers.yaml, hash: 'sha256:587478d8829f99ce190e0bc72f0ae8dd8b1d64b535a91d2be7731b41e534abb4'}
+  - {seq: 3, role: markers, filename: assets/KR6j0479_003.markers.yaml, hash: 'sha256:f2407cfc09398a23b90ac93ea2eca1122fe010d99b01d9d24e19f07eb4ce4d1f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -123,7 +124,4 @@ table_of_contents:
   label: 6 一切毘那夜迦十羅剎女一切鬼神成就品
   type: mulu
   level: 1
-hash: sha256:6118510a5eb6fc463465293fadc4195a8c958f725b9d18dd09539ab7661a2182
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d353b6c3fcee7b31569de29649f183a058b18e3a1375a19aa789f690d3419244
