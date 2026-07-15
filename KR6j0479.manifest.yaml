@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0479/v1
 canonical_location: https://kanripo.org/bkk/KR6j0479/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 吽迦陀野儀軌
   identifiers:
@@ -25,14 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0479_000.yaml, hash: 'sha256:203f073f7b4cc71bee2fe1a6c57a03de972e6eb04133799dac75ce892964f8a4'}
-  - {seq: 1, filename: KR6j0479_001.yaml, hash: 'sha256:368b5ed54e44d36d02bbc410ec9e894779b3de207f624f0a7abb4b90e2bf5515'}
-  - {seq: 2, filename: KR6j0479_002.yaml, hash: 'sha256:e446a0cfa049dbd8aa6c5f172f390d7100f9623c8e62671553cb32a7b5e5e5ae'}
-  - {seq: 3, filename: KR6j0479_003.yaml, hash: 'sha256:7b9b5322a506b84d01dbae8ddb2612f47a99368cabafb64802c20722a14e49f5'}
+  - {seq: 1, filename: KR6j0479_001.yaml, hash: 'sha256:4905ad4b337cb24a23326542d73b842adf3f8c8091edaa71fe5ba6ff538a7af9'}
+  - {seq: 2, filename: KR6j0479_002.yaml, hash: 'sha256:c18578ec7d20399b282d149524b1e815786e361321c2333b33e4e2f06ae0ecbf'}
+  - {seq: 3, filename: KR6j0479_003.yaml, hash: 'sha256:92aa839faa3f6fc18f2cc2d323bca6f9f396311887a3b26d3956bbe36eebe149'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0479_000.markers.yaml, hash: 'sha256:4d9806851de95482041afbd0825195791dc1dfedf8ae5642d7c077fd9d15854e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0479_001.markers.yaml, hash: 'sha256:aace44a021d60195276f6f8b9a3daadd9fe5305db75d0ee786481f6dc0697870'}
-  - {seq: 2, role: markers, filename: assets/KR6j0479_002.markers.yaml, hash: 'sha256:587478d8829f99ce190e0bc72f0ae8dd8b1d64b535a91d2be7731b41e534abb4'}
-  - {seq: 3, role: markers, filename: assets/KR6j0479_003.markers.yaml, hash: 'sha256:f2407cfc09398a23b90ac93ea2eca1122fe010d99b01d9d24e19f07eb4ce4d1f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0479_001.markers.yaml, hash: 'sha256:872077687965a70d76dc033cf09851ebbde02bdd973fcfd9ebcbcafc699e5e9e'}
+  - {seq: 2, role: markers, filename: assets/KR6j0479_002.markers.yaml, hash: 'sha256:3c3dcbed03fb5fa6a7abf27672a4373a58ff2140dcdb39f089fa7219d52b358b'}
+  - {seq: 3, role: markers, filename: assets/KR6j0479_003.markers.yaml, hash: 'sha256:b7d686ce80d489a1aee988e033ba0bf869a0bb9b101789f1afa9a941b732fe55'}
 table_of_contents:
 - ref:
     seq: 1
@@ -124,4 +124,7 @@ table_of_contents:
   label: 6 一切毘那夜迦十羅剎女一切鬼神成就品
   type: mulu
   level: 1
-hash: sha256:d353b6c3fcee7b31569de29649f183a058b18e3a1375a19aa789f690d3419244
+hash: sha256:7203512495f8fc3b9033747c7f978d25e9fa182fe3cc70d13bba83f02fbba691
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
